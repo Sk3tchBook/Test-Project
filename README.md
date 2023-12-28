@@ -1,4 +1,3 @@
 Test Project
 Objective: 
-Learn about GUI's and
-Learn the layout of a MMORPG game.
+Learn about GUI's and learn the layouts.
